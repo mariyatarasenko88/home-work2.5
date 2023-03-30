@@ -1,6 +1,8 @@
-package service;
+package pro.sky.java.cours2.homework2_5.service;
 
-import domain.Employee;
+
+
+import pro.sky.java.cours2.homework2_5.domain.Employee;
 
 import java.util.Collection;
 

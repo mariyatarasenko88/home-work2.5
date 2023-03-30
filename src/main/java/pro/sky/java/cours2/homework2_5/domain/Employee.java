@@ -1,4 +1,4 @@
-package domain;
+package pro.sky.java.cours2.homework2_5.domain;
 
 import java.util.Objects;
 

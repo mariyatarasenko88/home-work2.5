@@ -1,9 +1,9 @@
-package service;
+package pro.sky.java.cours2.homework2_5.service;
 
-import domain.Employee;
-import exception.EmployeeAlreadyAddedException;
-import exception.EmployeeNotFoundException;
 import org.springframework.stereotype.Service;
+import pro.sky.java.cours2.homework2_5.domain.Employee;
+import pro.sky.java.cours2.homework2_5.exception.EmployeeAlreadyAddedException;
+import pro.sky.java.cours2.homework2_5.exception.EmployeeNotFoundException;
 
 import java.util.ArrayList;
 import java.util.Collection;
